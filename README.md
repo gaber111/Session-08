@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14213d,100:b8892e&height=200&section=header&text=Notes%20Session%2008&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CSS%20Study%20Notes%20%E2%80%A2%20Arabic%20%2F%20English&descSize=18&descAlignY=58" alt="Notes Session 08 banner" />
 
-### 📘 ملاحظات CSS — شرح مبسط ومنسق بالعربي والإنجليزي
-
+Notes Session 8
 <p>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
